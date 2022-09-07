@@ -19,3 +19,19 @@ ___
 - Western Reserve Historical Society
 - Lake View Cemetery 
 
+[About Me](./AboutMe.md)
+<br>
+___
+
+## Travel Recommendations
+The below are the some of the cities that I would like to recommend everyone to visit once in their lifetime.
+|Name     | Important Location    |Time to spent |
+|---------|--------------         |--------------|
+|Cleveland|cleveland museum of art| 5 hours      |
+|Canberra |Parliament House       | 12hours      |
+|Hyderabad|Romoji Film City       | 15hours      |
+|Kolkata  |Howrah Bridge          | 1hour        |
+<br>
+
+
+
