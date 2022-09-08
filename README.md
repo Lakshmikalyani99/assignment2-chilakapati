@@ -33,5 +33,11 @@ The below are the some of the cities that I would like to recommend everyone to 
 |Kolkata  |Howrah Bridge          | 1hour        |
 <br>
 
+___
+## My favourite quotes
+> The key to success is the failure-*Michael Jordan*<br>
+
+> Life is a journey, not a destination-*ralph waldo emerson*<br>
+
 
 
