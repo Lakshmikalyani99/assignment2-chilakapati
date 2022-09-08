@@ -39,5 +39,16 @@ ___
 
 > Life is a journey, not a destination-*ralph waldo emerson*<br>
 
+___
 
+## Code fencing
+
+> How to open a link in new tab?
+
+[Stackoverflow discussion](https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window)
+
+```html
+<a href="http://chriscoyier.net" target="_blank">This link will open in new window/tab</a>
+```
+[View in css-tricks](https://css-tricks.com/snippets/html/open-link-in-a-new-window/)
 
